@@ -2,6 +2,8 @@
 
 Colab is a Google’s free cloud service which will let you run your deep learning or machine learning models in cloud.
 
+## First Steps
+
 ### Creating New Colab Notebook
 
 * Open your Google Drive
@@ -21,6 +23,10 @@ Edit > Notebook settings or Runtime>Change runtime type and select GPU as Hardwa
 ```
 !cat /proc/cpuinfo
 ```
+
+## Upgrading from free colab to paid/pro versions of Colab
+
+* https://colab.research.google.com/signup/pricing
 
 ### Install Libraries
 
